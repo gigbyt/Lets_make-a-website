@@ -1,0 +1,3 @@
+<h1>Lets build a Website together!!</h1>
+This is a repo for newbies to HTML and css....
+Here they will learn to create a website, inserting a picture, etc..
